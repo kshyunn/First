@@ -1,0 +1,6 @@
+git init
+git status
+git add b.txt
+git config
+git commit -m 'GitHub'
+git log
